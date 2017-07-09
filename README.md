@@ -9,7 +9,7 @@
 * Main Effects
 
 <p align="center">
-  <img src="MainEffectsGraphic.png" width="80%">
+  <img src="MainEffectGraphic.png" width="80%">
 </p>
 
 * Fators Interation Graphic
