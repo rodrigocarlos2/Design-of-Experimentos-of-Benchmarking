@@ -2,9 +2,15 @@
 
 * Pareto
 
+![Pareto Graphic](ParetoGraphic.png)
+
 * Main Effects
 
-* Interation
+![Main Effects Graphic](MainEffectsGraphic.png)
+
+* Fators Interation Graphic
+
+![Fators Interation Graphic](InterationGraphic.png)
 
 # Credits
 
