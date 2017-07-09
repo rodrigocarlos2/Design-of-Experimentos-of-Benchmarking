@@ -2,7 +2,9 @@
 
 * Pareto
 
-<CENTER><img src="ParetoGraphic.png" width="80%"></CENTER>
+<p align="center">
+  <img src="ParetoGraphic.png" width="80%">
+</p>
 
 * Main Effects
 
