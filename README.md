@@ -1,2 +1,11 @@
 # Design-of-Experimentos-of-Benchmarking
-Including graphics
+
+* Pareto
+
+* Main Effects
+
+* Interation
+
+# Credits
+
+* Guilherme e Rodrigo
