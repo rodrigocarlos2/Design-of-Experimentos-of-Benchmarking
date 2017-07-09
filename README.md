@@ -8,11 +8,15 @@
 
 * Main Effects
 
-<CENTER><img src="MainEffectsGraphic.png" width="80%"></CENTER>
+<p align="center">
+  <img src="MainEffectsGraphic.png" width="80%">
+</p>
 
 * Fators Interation Graphic
 
-<CENTER><img src="InterationGraphic.png" width="80%"></CENTER>
+<p align="center">
+  <img src="InterationGraphic.png" width="80%">
+</p>
 
 # Credits
 
