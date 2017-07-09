@@ -2,15 +2,15 @@
 
 * Pareto
 
-<img src="ParetoGraphic.png" width="48">
+<img src="ParetoGraphic.png" width="80%">
 
 * Main Effects
 
-![Main Effects Graphic](MainEffectsGraphic.png)
+<img src="MainEffectsGraphic.png" width="80%">
 
 * Fators Interation Graphic
 
-![Fators Interation Graphic](InterationGraphic.png)
+<img src="InterationGraphic.png" width="80%">
 
 # Credits
 
