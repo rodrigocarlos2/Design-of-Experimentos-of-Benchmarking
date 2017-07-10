@@ -18,6 +18,12 @@
   <img src="InterationGraphic.png" width="80%">
 </p>
 
+* Bar Chart
+
+<p align="center">
+  <img src="BarChart.png" width="80%">
+</p>
+
 # Credits
 
 * Guilherme e Rodrigo
