@@ -12,12 +12,6 @@
   <img src="2.jpeg" width="80%">
 </p>
 
-* Fators Interation Graphic
-
-<p align="center">
-  <img src="InterationGraphic.png" width="80%">
-</p>
-
 * Bar Chart
 
 <p align="center">
