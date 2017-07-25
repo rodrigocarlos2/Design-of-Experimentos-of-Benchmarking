@@ -27,7 +27,7 @@
 * Language Popularity
 
 <p align="center">
-  <img src="LanguagePopularity.png" width="80%">
+  <img src="3.png" width="80%">
 </p>
 
 # Credits
